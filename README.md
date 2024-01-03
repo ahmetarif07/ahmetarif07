@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ahmet arif
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html and c++
+- 💞️ I’m looking to collaborate on game
 - 📫 How to reach me ahmetarifbuyuk@gmail.com
 
 <!---
